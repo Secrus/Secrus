@@ -1,6 +1,6 @@
 # Hi, I'm Secrus :wave:
 
-I am a programmer, proud Pythonista, open source maintainer and an avid Star Wars nerd. I am also part of the core team maintaining [Poetry](https://python-poetry.org), a modern package manager for Python. My favorite things to do is to develop useful CLI tools that make stuff easier for other developers. Currently, I spend most of my time on maintaining Poetry and libraries it uses.
+I am a programmer, proud Pythonista, open-source maintainer, and an avid Star Wars nerd. I am also part of the core team maintaining [Poetry](https://python-poetry.org), a modern package manager for Python. My favorite thing to do is to develop useful CLI tools that make stuff easier for other developers. Currently, I spend most of my time on maintaining Poetry and the libraries it uses.
 
 ## Projects I maintain
 
@@ -13,9 +13,8 @@ I am a programmer, proud Pythonista, open source maintainer and an avid Star War
 ## Projects I contribute(d) to
 
 - [tomlkit](https://github.com/sdispater/tomlkit) - a style-preserving TOML library for Python
-- [pythonfinder](https://github.com/sarugaku/pythonfinder) - a cross platform search tool for finding Python installations
+- [pythonfinder](https://github.com/sarugaku/pythonfinder) - a cross-platform search tool for finding Python installations
 - [trove-classifiers](https://github.com/pypa/trove-classifiers) - a canonical source for classifiers on PyPI
-- [httpx](https://github.com/encode/httpx) - a next generation HTTP client for Python
-- [crashtest](https://github.com/sdispater/crashtest) - a Python library that makes exceptions handling and inspection easier
+- [httpx](https://github.com/encode/httpx) - a next-generation HTTP client for Python
 - [flake8-django](https://github.com/rocioar/flake8-django) - a flake8 plugin to detect bad practices on Django projects
 - [Type of Web Discord Bot](https://github.com/typeofweb/typeofweb-discord-bot) - a Discord bot for Type of Web community server
